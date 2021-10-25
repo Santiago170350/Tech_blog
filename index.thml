@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tech Blog</title>
+  </head>
+  <body>
+    <header>
+      <h1>Tech blog</h1>
+       <nav>
+        <ul>
+        <li><a href="html.html">HTML</a></lii>
+   </ul>
+   </nav>
+   <header>
+   <article>
+   <p>Welcome to my blog</p>
+   </article>
+   <footer>
+   </body>
+   </html>
