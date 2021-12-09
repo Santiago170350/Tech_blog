@@ -3,7 +3,7 @@ body{
     background-color: #01D085;
 }
 
-  a {
+  a hover {
       display: inline-block;
   vertical-align: middle;
   box-shadow: 0 0 1px;
