@@ -6,7 +6,8 @@ body{
   a {
       display: inline-block;
   vertical-align: middle;
-  box-shadow: 0 0 1px rgb(10, 10, 10,);
+  box-shadow: 0 0 1px;
+  background-color: black;
   transition-duration: 0.3s;
   transition-property: transform;
 }
