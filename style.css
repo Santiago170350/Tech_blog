@@ -3,11 +3,19 @@ body{
     background-color: #01D085;
 }
 
-  a:hover {
-      display: inline-block;
-  vertical-align: middle;
-  box-shadow: 0 0 1px;
-  background-color: white;
-  transition-duration: 0.3s;
-  transition-property: transform;
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+ 
+header {
+     display:
 }
